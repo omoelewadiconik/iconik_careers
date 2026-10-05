@@ -1,0 +1,142 @@
+[
+    {
+        "reference": "IK-20260910-A1B2C3",
+        "status": "hired",
+        "submitted_at": "2026-09-10T11:20:00+00:00",
+        "updated_at": "2026-09-16T09:00:00+00:00",
+        "details": {
+            "first_name": "Amina",
+            "last_name": "Okeke",
+            "email": "amina.okeke@example.com",
+            "phone": "+234 800 000 0000",
+            "city": "Lagos",
+            "country": "Nigeria",
+            "role": "product-designer",
+            "linkedin": "",
+            "source": "website",
+            "intro": "Sample hired applicant for status-page testing."
+        },
+        "experience": {
+            "current_title": "Product Designer",
+            "years": "5",
+            "portfolio": "",
+            "skills": "Figma, research, design systems",
+            "experience": "Sample portfolio of product design work.",
+            "availability": "2 weeks"
+        },
+        "cv": "",
+        "cv_original": "Amina-Okeke-CV.pdf"
+    },
+    {
+        "reference": "IK-20260908-D4E5F6",
+        "status": "rejected",
+        "submitted_at": "2026-09-08T08:15:00+00:00",
+        "updated_at": "2026-09-14T16:40:00+00:00",
+        "details": {
+            "first_name": "Jonah",
+            "last_name": "Reed",
+            "email": "jonah.reed@example.com",
+            "phone": "+1 555 010 0199",
+            "city": "Austin",
+            "country": "USA",
+            "role": "frontend-engineer",
+            "linkedin": "",
+            "source": "linkedin",
+            "intro": "Sample not-selected applicant for status-page testing."
+        },
+        "experience": {
+            "current_title": "Frontend Engineer",
+            "years": "3",
+            "portfolio": "",
+            "skills": "React, CSS",
+            "experience": "Sample frontend experience summary.",
+            "availability": "Immediate"
+        },
+        "cv": "",
+        "cv_original": "Jonah-Reed-CV.pdf"
+    },
+    {
+        "reference": "IK-20260915-AABB11",
+        "status": "reviewing",
+        "submitted_at": "2026-09-15T13:05:00+00:00",
+        "updated_at": "2026-09-17T10:00:00+00:00",
+        "details": {
+            "first_name": "Priya",
+            "last_name": "Shah",
+            "email": "priya.shah@example.com",
+            "phone": "+44 20 0000 0000",
+            "city": "London",
+            "country": "UK",
+            "role": "product-manager",
+            "linkedin": "",
+            "source": "referral",
+            "intro": "Sample in-review applicant for status-page testing."
+        },
+        "experience": {
+            "current_title": "Product Manager",
+            "years": "6",
+            "portfolio": "",
+            "skills": "Roadmaps, discovery",
+            "experience": "Sample product management experience.",
+            "availability": "1 month"
+        },
+        "cv": "",
+        "cv_original": "Priya-Shah-CV.pdf"
+    },
+    {
+        "reference": "IK-20260917-A96091",
+        "status": "pending",
+        "submitted_at": "2026-09-17T23:21:37+02:00",
+        "updated_at": "2026-09-17T23:21:37+02:00",
+        "details": {
+            "first_name": "Ayomide",
+            "last_name": "Elewa",
+            "email": "omoelewadiconik@gmail.com",
+            "phone": "+2348034302947",
+            "city": "Ibadan",
+            "country": "Nigeria",
+            "role": "product-designer",
+            "linkedin": "https://linkedin.com/iconik",
+            "source": "website",
+            "intro": "n"
+        },
+        "experience": {
+            "current_title": "n",
+            "years": "b",
+            "portfolio": "",
+            "skills": "",
+            "experience": "b",
+            "availability": ""
+        },
+        "cv": "20260917232107_098eb505_pdf-sample_0.pdf",
+        "cv_original": "pdf-sample_0.pdf"
+    },
+    {
+        "reference": "IK-20260918-0C766D",
+        "status": "pending",
+        "submitted_at": "2026-09-18T14:08:36+02:00",
+        "updated_at": "2026-09-18T14:08:36+02:00",
+        "details": {
+            "first_name": "Ayomide",
+            "last_name": "Elewa",
+            "email": "omoelewadiconik@gmail.com",
+            "phone": "+2348034302947",
+            "city": "Ibadan",
+            "country": "Nigeria",
+            "role": "product-designer",
+            "linkedin": "https://linkedin.com/iconik",
+            "source": "website",
+            "intro": "g"
+        },
+        "experience": {
+            "current_title": "n",
+            "years": "b",
+            "portfolio": "",
+            "skills": "",
+            "experience": "n",
+            "availability": ""
+        },
+        "cv": "20260918140805_f846d4b7_pdf-sample_0.pdf",
+        "cv_original": "pdf-sample_0.pdf"
+    }
+]
